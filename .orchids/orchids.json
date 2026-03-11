@@ -1,0 +1,10 @@
+{
+  "projectId": "933ce373-9bba-4459-abb5-1696eb85b0e0",
+  "createdAt": 1769794380994,
+  "version": "1.0",
+  "startupCommands": [
+    "npm install --legacy-peer-deps; npx next dev --turbopack --port 3000"
+  ],
+  "templateId": "any",
+  "detectedFramework": "nextjs"
+}
